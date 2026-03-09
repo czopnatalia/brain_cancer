@@ -75,7 +75,7 @@ The implemented CNN architecture includes:
 To train the model, run:
 
 ```bash
-python train_model.py
+python train.py
 ```
 
 This script will:
@@ -89,7 +89,7 @@ This script will:
 After training, run the evaluation script:
 
 ```bash
-python eval_model.py
+python eval.py
 ```
 
 This script will:

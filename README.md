@@ -23,13 +23,13 @@ The model is trained on MRI brain images and learns to identify patterns associa
 
 ## Project Structure
 Brain_Cancer_TF_AI/   
-├── train_model.py # Script for training the CNN model
-├── eval_model.py # Script for evaluating the trained model
-├── dataset/ # Dataset directory (not included in the repository)
-│ ├── training/ 
-│ ├── validation/ 
-│ └── testing/ 
-└── README.md 
+├── train_model.py # Script for training the CNN model  
+├── eval_model.py # Script for evaluating the trained model  
+├── dataset/ # Dataset directory (not included in the repository)  
+│ ├── training/   
+│ ├── validation/   
+│ └── testing/   
+└── README.md   
 
 **Note:** The dataset is not included in the repository due to its size.
 

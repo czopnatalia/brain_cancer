@@ -76,6 +76,7 @@ To train the model, run:
 
 ```bash
 python train_model.py
+```
 
 This script will:
 * Load training and validation datasets.
@@ -89,6 +90,7 @@ After training, run the evaluation script:
 
 ```bash
 python eval_model.py
+```
 
 This script will:
 * Load the trained model 

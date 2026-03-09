@@ -113,6 +113,6 @@ Python, TensorFlow / Keras, NumPy, Matplotlib, Scikit-learn
 <img width="777" height="622" alt="image" src="https://github.com/user-attachments/assets/5cb23451-47ad-424d-aa36-805950cb74c3" />
 
 ## Summary   
-Authors: Natalia Czop and collaborators mentioned before
+Authors: Natalia Czop and collaborators  
 Project Type: Deep Learning / Image Classification / AI / Convolutional Neural Network
 
